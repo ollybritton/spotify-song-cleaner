@@ -1,0 +1,5 @@
+# Just so I don't accidentally commit some sensitve data.
+config.toml
+spotify.backup
+.cache-*
+
